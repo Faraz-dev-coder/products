@@ -1,4 +1,5 @@
 [
+  /* =================== MEN (15) =================== */
   {
     "id": "M101",
     "title": "Roadster Men Solid Round Neck T-shirt",
@@ -59,17 +60,136 @@
     "rating": 4.4,
     "images": ["https://assets.myntassets.com/men-jacket1.jpg"]
   },
-
+  {
+    "id": "M106",
+    "title": "Adidas Men Track Pants",
+    "brand": "Adidas",
+    "category": "Men",
+    "subcategory": "Track Pants",
+    "price": 1899,
+    "discount": 25,
+    "sizes": ["S", "M", "L", "XL"],
+    "rating": 4.3,
+    "images": ["https://assets.myntassets.com/men-trackpants1.jpg"]
+  },
+  {
+    "id": "M107",
+    "title": "Allen Solly Men Formal Shirt",
+    "brand": "Allen Solly",
+    "category": "Men",
+    "subcategory": "Formal Shirts",
+    "price": 1699,
+    "discount": 20,
+    "sizes": ["M", "L", "XL", "XXL"],
+    "rating": 4.2,
+    "images": ["https://assets.myntassets.com/men-formalshirt1.jpg"]
+  },
+  {
+    "id": "M108",
+    "title": "Arrow Men Blazer",
+    "brand": "Arrow",
+    "category": "Men",
+    "subcategory": "Blazers",
+    "price": 5999,
+    "discount": 40,
+    "sizes": ["M", "L", "XL"],
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/men-blazer1.jpg"]
+  },
+  {
+    "id": "M109",
+    "title": "US Polo Men Polo Collar T-shirt",
+    "brand": "US Polo",
+    "category": "Men",
+    "subcategory": "T-Shirts",
+    "price": 1099,
+    "discount": 30,
+    "sizes": ["S", "M", "L", "XL"],
+    "rating": 4.4,
+    "images": ["https://assets.myntassets.com/men-polo1.jpg"]
+  },
+  {
+    "id": "M110",
+    "title": "Van Heusen Men Formal Trousers",
+    "brand": "Van Heusen",
+    "category": "Men",
+    "subcategory": "Trousers",
+    "price": 2299,
+    "discount": 20,
+    "sizes": ["30", "32", "34", "36"],
+    "rating": 4.3,
+    "images": ["https://assets.myntassets.com/men-trousers1.jpg"]
+  },
+  {
+    "id": "M111",
+    "title": "Red Tape Men Casual Sneakers",
+    "brand": "Red Tape",
+    "category": "Men",
+    "subcategory": "Shoes",
+    "price": 1999,
+    "discount": 50,
+    "sizes": ["7", "8", "9", "10"],
+    "rating": 4.2,
+    "images": ["https://assets.myntassets.com/men-sneakers1.jpg"]
+  },
+  {
+    "id": "M112",
+    "title": "Peter England Men Sweater",
+    "brand": "Peter England",
+    "category": "Men",
+    "subcategory": "Sweaters",
+    "price": 1599,
+    "discount": 30,
+    "sizes": ["M", "L", "XL"],
+    "rating": 4.5,
+    "images": ["https://assets.myntassets.com/men-sweater1.jpg"]
+  },
+  {
+    "id": "M113",
+    "title": "Woodland Men Leather Boots",
+    "brand": "Woodland",
+    "category": "Men",
+    "subcategory": "Shoes",
+    "price": 4499,
+    "discount": 20,
+    "sizes": ["8", "9", "10", "11"],
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/men-boots1.jpg"]
+  },
+  {
+    "id": "M114",
+    "title": "Mufti Men Cargo Pants",
+    "brand": "Mufti",
+    "category": "Men",
+    "subcategory": "Cargos",
+    "price": 1899,
+    "discount": 25,
+    "sizes": ["30", "32", "34", "36"],
+    "rating": 4.1,
+    "images": ["https://assets.myntassets.com/men-cargos1.jpg"]
+  },
+  {
+    "id": "M115",
+    "title": "Jack & Jones Men Hoodie",
+    "brand": "Jack & Jones",
+    "category": "Men",
+    "subcategory": "Hoodies",
+    "price": 2299,
+    "discount": 35,
+    "sizes": ["M", "L", "XL"],
+    "rating": 4.4,
+    "images": ["https://assets.myntassets.com/men-hoodie1.jpg"]
+  },
   {
     "id": "W201",
     "title": "Anouk Women Printed Kurta",
     "brand": "Anouk",
     "category": "Women",
     "subcategory": "Kurtas",
-    "price": 1199,
+    "price": 1299,
     "discount": 40,
-    "sizes": ["XS", "S", "M", "L", "XL"],
-    "rating": 4.5,
+    "sizes": ["S", "M", "L", "XL"],
+    "rating": 4.3,
     "images": ["https://assets.myntassets.com/women-kurta1.jpg"]
   },
   {
@@ -78,10 +198,10 @@
     "brand": "Sassafras",
     "category": "Women",
     "subcategory": "Dresses",
-    "price": 1799,
+    "price": 1599,
     "discount": 30,
     "sizes": ["S", "M", "L"],
-    "rating": 4.2,
+    "rating": 4.4,
     "images": ["https://assets.myntassets.com/women-dress1.jpg"]
   },
   {
@@ -93,7 +213,7 @@
     "price": 899,
     "discount": 25,
     "sizes": ["XS", "S", "M", "L"],
-    "rating": 4.1,
+    "rating": 4.2,
     "images": ["https://assets.myntassets.com/women-top1.jpg"]
   },
   {
@@ -103,9 +223,9 @@
     "category": "Women",
     "subcategory": "Heels",
     "price": 2299,
-    "discount": 45,
+    "discount": 35,
     "sizes": ["36", "37", "38", "39", "40"],
-    "rating": 4.6,
+    "rating": 4.5,
     "images": ["https://assets.myntassets.com/women-heels1.jpg"]
   },
   {
@@ -114,23 +234,144 @@
     "brand": "H&M",
     "category": "Women",
     "subcategory": "Jackets",
-    "price": 2999,
+    "price": 2499,
     "discount": 20,
-    "sizes": ["S", "M", "L"],
-    "rating": 4.4,
+    "sizes": ["S", "M", "L", "XL"],
+    "rating": 4.3,
     "images": ["https://assets.myntassets.com/women-jacket1.jpg"]
   },
-
+  {
+    "id": "W206",
+    "title": "AND Women Formal Blazer",
+    "brand": "AND",
+    "category": "Women",
+    "subcategory": "Blazers",
+    "price": 3599,
+    "discount": 30,
+    "sizes": ["S", "M", "L"],
+    "rating": 4.4,
+    "images": ["https://assets.myntassets.com/women-blazer1.jpg"]
+  },
+  {
+    "id": "W207",
+    "title": "Vero Moda Women Skinny Jeans",
+    "brand": "Vero Moda",
+    "category": "Women",
+    "subcategory": "Jeans",
+    "price": 1999,
+    "discount": 20,
+    "sizes": ["26", "28", "30", "32"],
+    "rating": 4.2,
+    "images": ["https://assets.myntassets.com/women-jeans1.jpg"]
+  },
+  {
+    "id": "W208",
+    "title": "Forever 21 Women Party Dress",
+    "brand": "Forever 21",
+    "category": "Women",
+    "subcategory": "Dresses",
+    "price": 2499,
+    "discount": 35,
+    "sizes": ["S", "M", "L"],
+    "rating": 4.5,
+    "images": ["https://assets.myntassets.com/women-dress2.jpg"]
+  },
+  {
+    "id": "W209",
+    "title": "Mango Women Leather Handbag",
+    "brand": "Mango",
+    "category": "Women",
+    "subcategory": "Bags",
+    "price": 2999,
+    "discount": 25,
+    "sizes": [],
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/women-handbag1.jpg"]
+  },
+  {
+    "id": "W210",
+    "title": "Global Desi Women Ethnic Skirt",
+    "brand": "Global Desi",
+    "category": "Women",
+    "subcategory": "Ethnic Wear",
+    "price": 1799,
+    "discount": 30,
+    "sizes": ["S", "M", "L", "XL"],
+    "rating": 4.3,
+    "images": ["https://assets.myntassets.com/women-skirt1.jpg"]
+  },
+  {
+    "id": "W211",
+    "title": "Libas Women Anarkali Kurta",
+    "brand": "Libas",
+    "category": "Women",
+    "subcategory": "Kurtas",
+    "price": 2499,
+    "discount": 40,
+    "sizes": ["S", "M", "L", "XL"],
+    "rating": 4.4,
+    "images": ["https://assets.myntassets.com/women-kurta2.jpg"]
+  },
+  {
+    "id": "W212",
+    "title": "Biba Women Ethnic Suit Set",
+    "brand": "Biba",
+    "category": "Women",
+    "subcategory": "Ethnic Wear",
+    "price": 3599,
+    "discount": 20,
+    "sizes": ["S", "M", "L", "XL"],
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/women-suit1.jpg"]
+  },
+  {
+    "id": "W213",
+    "title": "FabIndia Women Cotton Saree",
+    "brand": "FabIndia",
+    "category": "Women",
+    "subcategory": "Sarees",
+    "price": 2999,
+    "discount": 25,
+    "sizes": [],
+    "rating": 4.5,
+    "images": ["https://assets.myntassets.com/women-saree1.jpg"]
+  },
+  {
+    "id": "W214",
+    "title": "ONLY Women Leather Jacket",
+    "brand": "ONLY",
+    "category": "Women",
+    "subcategory": "Jackets",
+    "price": 4599,
+    "discount": 30,
+    "sizes": ["S", "M", "L"],
+    "rating": 4.7,
+    "images": ["https://assets.myntassets.com/women-jacket2.jpg"]
+  },
+  {
+    "id": "W215",
+    "title": "Marks & Spencer Women Sports Shoes",
+    "brand": "Marks & Spencer",
+    "category": "Women",
+    "subcategory": "Shoes",
+    "price": 2299,
+    "discount": 20,
+    "sizes": ["36", "37", "38", "39", "40"],
+    "rating": 4.3,
+    "images": ["https://assets.myntassets.com/women-sneakers1.jpg"]
+  },
+  [
+  /* =================== KIDS (15) =================== */
   {
     "id": "K301",
     "title": "HRX Kids Boys Printed T-shirt",
     "brand": "HRX",
     "category": "Kids",
     "subcategory": "T-Shirts",
-    "price": 399,
-    "discount": 30,
-    "sizes": ["2-3Y", "4-5Y", "6-7Y", "8-9Y"],
-    "rating": 4.1,
+    "price": 699,
+    "discount": 40,
+    "sizes": ["4-5Y", "5-6Y", "7-8Y"],
+    "rating": 4.2,
     "images": ["https://assets.myntassets.com/kids-tshirt1.jpg"]
   },
   {
@@ -139,10 +380,10 @@
     "brand": "YK",
     "category": "Kids",
     "subcategory": "Dresses",
-    "price": 1399,
-    "discount": 35,
-    "sizes": ["2-3Y", "4-5Y", "6-7Y"],
-    "rating": 4.3,
+    "price": 1499,
+    "discount": 30,
+    "sizes": ["3-4Y", "5-6Y", "7-8Y"],
+    "rating": 4.5,
     "images": ["https://assets.myntassets.com/kids-dress1.jpg"]
   },
   {
@@ -151,11 +392,11 @@
     "brand": "Crocs",
     "category": "Kids",
     "subcategory": "Footwear",
-    "price": 1899,
+    "price": 1999,
     "discount": 20,
-    "sizes": ["2C", "3C", "4C", "5C"],
-    "rating": 4.5,
-    "images": ["https://assets.myntassets.com/kids-shoes1.jpg"]
+    "sizes": ["9C", "10C", "11C", "12C"],
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/kids-sandals1.jpg"]
   },
   {
     "id": "K304",
@@ -163,10 +404,10 @@
     "brand": "Mini Klub",
     "category": "Kids",
     "subcategory": "Jeans",
-    "price": 799,
-    "discount": 30,
-    "sizes": ["2-3Y", "4-5Y", "6-7Y"],
-    "rating": 4.2,
+    "price": 1299,
+    "discount": 25,
+    "sizes": ["4-5Y", "6-7Y", "8-9Y"],
+    "rating": 4.3,
     "images": ["https://assets.myntassets.com/kids-jeans1.jpg"]
   },
   {
@@ -176,21 +417,142 @@
     "category": "Kids",
     "subcategory": "Shirts",
     "price": 999,
-    "discount": 25,
-    "sizes": ["2-3Y", "4-5Y", "6-7Y", "8-9Y"],
-    "rating": 4.3,
+    "discount": 30,
+    "sizes": ["4-5Y", "6-7Y", "8-9Y"],
+    "rating": 4.4,
     "images": ["https://assets.myntassets.com/kids-shirt1.jpg"]
   },
-
+  {
+    "id": "K306",
+    "title": "Mothercare Girls Floral Frock",
+    "brand": "Mothercare",
+    "category": "Kids",
+    "subcategory": "Dresses",
+    "price": 1899,
+    "discount": 35,
+    "sizes": ["2-3Y", "3-4Y", "4-5Y"],
+    "rating": 4.5,
+    "images": ["https://assets.myntassets.com/kids-frock1.jpg"]
+  },
+  {
+    "id": "K307",
+    "title": "Nike Kids Running Shoes",
+    "brand": "Nike",
+    "category": "Kids",
+    "subcategory": "Footwear",
+    "price": 2499,
+    "discount": 20,
+    "sizes": ["10C", "11C", "12C", "13C"],
+    "rating": 4.7,
+    "images": ["https://assets.myntassets.com/kids-shoes1.jpg"]
+  },
+  {
+    "id": "K308",
+    "title": "Babyhug Boys Sweatshirt",
+    "brand": "Babyhug",
+    "category": "Kids",
+    "subcategory": "Sweatshirts",
+    "price": 799,
+    "discount": 30,
+    "sizes": ["3-4Y", "4-5Y", "6-7Y"],
+    "rating": 4.2,
+    "images": ["https://assets.myntassets.com/kids-sweatshirt1.jpg"]
+  },
+  {
+    "id": "K309",
+    "title": "United Colors of Benetton Kids Shorts",
+    "brand": "UCB",
+    "category": "Kids",
+    "subcategory": "Shorts",
+    "price": 1199,
+    "discount": 25,
+    "sizes": ["3-4Y", "4-5Y", "6-7Y"],
+    "rating": 4.3,
+    "images": ["https://assets.myntassets.com/kids-shorts1.jpg"]
+  },
+  {
+    "id": "K310",
+    "title": "Pepe Jeans Junior Hoodie",
+    "brand": "Pepe Jeans",
+    "category": "Kids",
+    "subcategory": "Hoodies",
+    "price": 1499,
+    "discount": 20,
+    "sizes": ["6-7Y", "7-8Y", "9-10Y"],
+    "rating": 4.4,
+    "images": ["https://assets.myntassets.com/kids-hoodie1.jpg"]
+  },
+  {
+    "id": "K311",
+    "title": "Gap Kids Cotton Leggings",
+    "brand": "Gap",
+    "category": "Kids",
+    "subcategory": "Leggings",
+    "price": 899,
+    "discount": 35,
+    "sizes": ["3-4Y", "5-6Y", "7-8Y"],
+    "rating": 4.2,
+    "images": ["https://assets.myntassets.com/kids-leggings1.jpg"]
+  },
+  {
+    "id": "K312",
+    "title": "Adidas Kids Sports T-shirt",
+    "brand": "Adidas",
+    "category": "Kids",
+    "subcategory": "T-Shirts",
+    "price": 1299,
+    "discount": 20,
+    "sizes": ["5-6Y", "7-8Y", "9-10Y"],
+    "rating": 4.5,
+    "images": ["https://assets.myntassets.com/kids-sports1.jpg"]
+  },
+  {
+    "id": "K313",
+    "title": "H&M Kids Denim Jacket",
+    "brand": "H&M",
+    "category": "Kids",
+    "subcategory": "Jackets",
+    "price": 2299,
+    "discount": 30,
+    "sizes": ["6-7Y", "7-8Y", "9-10Y"],
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/kids-jacket1.jpg"]
+  },
+  {
+    "id": "K314",
+    "title": "Gap Kids Graphic Sweatpants",
+    "brand": "Gap",
+    "category": "Kids",
+    "subcategory": "Track Pants",
+    "price": 1499,
+    "discount": 25,
+    "sizes": ["4-5Y", "5-6Y", "7-8Y"],
+    "rating": 4.3,
+    "images": ["https://assets.myntassets.com/kids-trackpants1.jpg"]
+  },
+  {
+    "id": "K315",
+    "title": "Disney Kids Frozen Backpack",
+    "brand": "Disney",
+    "category": "Kids",
+    "subcategory": "Bags",
+    "price": 1299,
+    "discount": 30,
+    "sizes": [],
+    "rating": 4.7,
+    "images": ["https://assets.myntassets.com/kids-backpack1.jpg"]
+  },
+    [
+  /* =================== HOME & LIVING (15) =================== */
   {
     "id": "H401",
     "title": "Cortina Cotton Double Bedsheet",
     "brand": "Cortina",
     "category": "Home & Living",
     "subcategory": "Bedsheets",
-    "price": 899,
-    "discount": 35,
-    "sizes": [],
+    "price": 1499,
+    "discount": 40,
+    "sizes": ["Double"],
     "rating": 4.3,
     "images": ["https://assets.myntassets.com/home-bedsheet1.jpg"]
   },
@@ -200,22 +562,22 @@
     "brand": "Spaces",
     "category": "Home & Living",
     "subcategory": "Curtains",
-    "price": 1499,
-    "discount": 20,
-    "sizes": [],
-    "rating": 4.2,
+    "price": 1999,
+    "discount": 35,
+    "sizes": ["7ft", "9ft"],
+    "rating": 4.4,
     "images": ["https://assets.myntassets.com/home-curtain1.jpg"]
   },
   {
     "id": "H403",
-    "title": "Portico Cushion Covers Set of 2",
+    "title": "Portico Cushion Covers Set",
     "brand": "Portico",
     "category": "Home & Living",
     "subcategory": "Cushions",
-    "price": 599,
+    "price": 999,
     "discount": 30,
-    "sizes": [],
-    "rating": 4.1,
+    "sizes": ["16x16"],
+    "rating": 4.2,
     "images": ["https://assets.myntassets.com/home-cushion1.jpg"]
   },
   {
@@ -224,10 +586,10 @@
     "brand": "Bombay Dyeing",
     "category": "Home & Living",
     "subcategory": "Towels",
-    "price": 699,
+    "price": 799,
     "discount": 25,
-    "sizes": [],
-    "rating": 4.4,
+    "sizes": ["Bath"],
+    "rating": 4.3,
     "images": ["https://assets.myntassets.com/home-towel1.jpg"]
   },
   {
@@ -236,13 +598,134 @@
     "brand": "Urban Ladder",
     "category": "Home & Living",
     "subcategory": "Furniture",
-    "price": 2499,
-    "discount": 15,
+    "price": 2599,
+    "discount": 30,
     "sizes": [],
     "rating": 4.5,
     "images": ["https://assets.myntassets.com/home-shelf1.jpg"]
   },
-
+  {
+    "id": "H406",
+    "title": "D'Decor Printed King Bedsheet",
+    "brand": "D'Decor",
+    "category": "Home & Living",
+    "subcategory": "Bedsheets",
+    "price": 2499,
+    "discount": 35,
+    "sizes": ["King"],
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/home-bedsheet2.jpg"]
+  },
+  {
+    "id": "H407",
+    "title": "Raymond Bath Towel Set of 2",
+    "brand": "Raymond Home",
+    "category": "Home & Living",
+    "subcategory": "Towels",
+    "price": 1299,
+    "discount": 30,
+    "sizes": ["Hand", "Bath"],
+    "rating": 4.2,
+    "images": ["https://assets.myntassets.com/home-towel2.jpg"]
+  },
+  {
+    "id": "H408",
+    "title": "Divine Casa Door Curtain",
+    "brand": "Divine Casa",
+    "category": "Home & Living",
+    "subcategory": "Curtains",
+    "price": 1499,
+    "discount": 20,
+    "sizes": ["7ft"],
+    "rating": 4.1,
+    "images": ["https://assets.myntassets.com/home-curtain2.jpg"]
+  },
+  {
+    "id": "H409",
+    "title": "Story@Home Round Coffee Table",
+    "brand": "Story@Home",
+    "category": "Home & Living",
+    "subcategory": "Furniture",
+    "price": 4999,
+    "discount": 25,
+    "sizes": [],
+    "rating": 4.5,
+    "images": ["https://assets.myntassets.com/home-table1.jpg"]
+  },
+  {
+    "id": "H410",
+    "title": "Home Centre Wall Clock",
+    "brand": "Home Centre",
+    "category": "Home & Living",
+    "subcategory": "Decor",
+    "price": 1999,
+    "discount": 30,
+    "sizes": [],
+    "rating": 4.3,
+    "images": ["https://assets.myntassets.com/home-clock1.jpg"]
+  },
+  {
+    "id": "H411",
+    "title": "Spaces Printed Duvet Cover",
+    "brand": "Spaces",
+    "category": "Home & Living",
+    "subcategory": "Bedding",
+    "price": 2799,
+    "discount": 25,
+    "sizes": ["Double"],
+    "rating": 4.4,
+    "images": ["https://assets.myntassets.com/home-duvet1.jpg"]
+  },
+  {
+    "id": "H412",
+    "title": "Maspar Designer Cushion",
+    "brand": "Maspar",
+    "category": "Home & Living",
+    "subcategory": "Cushions",
+    "price": 1199,
+    "discount": 20,
+    "sizes": ["18x18"],
+    "rating": 4.2,
+    "images": ["https://assets.myntassets.com/home-cushion2.jpg"]
+  },
+  {
+    "id": "H413",
+    "title": "Ikea Wooden Study Table",
+    "brand": "Ikea",
+    "category": "Home & Living",
+    "subcategory": "Furniture",
+    "price": 7999,
+    "discount": 30,
+    "sizes": [],
+    "rating": 4.7,
+    "images": ["https://assets.myntassets.com/home-studytable1.jpg"]
+  },
+  {
+    "id": "H414",
+    "title": "Fabindia Cotton Sofa Cover",
+    "brand": "Fabindia",
+    "category": "Home & Living",
+    "subcategory": "Covers",
+    "price": 2299,
+    "discount": 25,
+    "sizes": ["3 Seater"],
+    "rating": 4.3,
+    "images": ["https://assets.myntassets.com/home-sofacover1.jpg"]
+  },
+  {
+    "id": "H415",
+    "title": "Phillips LED Table Lamp",
+    "brand": "Phillips",
+    "category": "Home & Living",
+    "subcategory": "Lighting",
+    "price": 1899,
+    "discount": 20,
+    "sizes": [],
+    "rating": 4.4,
+    "images": ["https://assets.myntassets.com/home-lamp1.jpg"]
+  },
+      [
+  /* =================== BEAUTY (15) =================== */
   {
     "id": "B501",
     "title": "Maybelline Fit Me Foundation",
@@ -251,8 +734,8 @@
     "subcategory": "Makeup",
     "price": 549,
     "discount": 20,
-    "sizes": [],
-    "rating": 4.6,
+    "sizes": ["30ml"],
+    "rating": 4.4,
     "images": ["https://assets.myntassets.com/beauty-foundation1.jpg"]
   },
   {
@@ -262,9 +745,9 @@
     "category": "Beauty",
     "subcategory": "Makeup",
     "price": 299,
-    "discount": 10,
-    "sizes": [],
-    "rating": 4.4,
+    "discount": 15,
+    "sizes": ["4.5g"],
+    "rating": 4.2,
     "images": ["https://assets.myntassets.com/beauty-lipstick1.jpg"]
   },
   {
@@ -274,9 +757,9 @@
     "category": "Beauty",
     "subcategory": "Skincare",
     "price": 199,
-    "discount": 15,
-    "sizes": [],
-    "rating": 4.2,
+    "discount": 10,
+    "sizes": ["100ml"],
+    "rating": 4.1,
     "images": ["https://assets.myntassets.com/beauty-facewash1.jpg"]
   },
   {
@@ -287,23 +770,144 @@
     "subcategory": "Fragrance",
     "price": 499,
     "discount": 25,
-    "sizes": [],
+    "sizes": ["150ml"],
     "rating": 4.3,
     "images": ["https://assets.myntassets.com/beauty-perfume1.jpg"]
   },
   {
     "id": "B505",
     "title": "L'Oreal Paris Shampoo",
-    "brand": "L'Oreal",
+    "brand": "L'Oreal Paris",
     "category": "Beauty",
     "subcategory": "Haircare",
-    "price": 349,
+    "price": 399,
     "discount": 20,
-    "sizes": [],
-    "rating": 4.5,
+    "sizes": ["175ml"],
+    "rating": 4.2,
     "images": ["https://assets.myntassets.com/beauty-shampoo1.jpg"]
   },
-
+  {
+    "id": "B506",
+    "title": "Lakme Eyeconic Kajal",
+    "brand": "Lakme",
+    "category": "Beauty",
+    "subcategory": "Makeup",
+    "price": 210,
+    "discount": 10,
+    "sizes": ["0.35g"],
+    "rating": 4.5,
+    "images": ["https://assets.myntassets.com/beauty-kajal1.jpg"]
+  },
+  {
+    "id": "B507",
+    "title": "Biotique Bio Morning Nectar Lotion",
+    "brand": "Biotique",
+    "category": "Beauty",
+    "subcategory": "Skincare",
+    "price": 199,
+    "discount": 15,
+    "sizes": ["120ml"],
+    "rating": 4.4,
+    "images": ["https://assets.myntassets.com/beauty-lotion1.jpg"]
+  },
+  {
+    "id": "B508",
+    "title": "MAC Matte Lipstick",
+    "brand": "MAC",
+    "category": "Beauty",
+    "subcategory": "Makeup",
+    "price": 1700,
+    "discount": 10,
+    "sizes": ["3g"],
+    "rating": 4.7,
+    "images": ["https://assets.myntassets.com/beauty-lipstick2.jpg"]
+  },
+  {
+    "id": "B509",
+    "title": "Beardo Men Beard Oil",
+    "brand": "Beardo",
+    "category": "Beauty",
+    "subcategory": "Grooming",
+    "price": 399,
+    "discount": 20,
+    "sizes": ["30ml"],
+    "rating": 4.3,
+    "images": ["https://assets.myntassets.com/beauty-beardoil1.jpg"]
+  },
+  {
+    "id": "B510",
+    "title": "Philips Hair Dryer",
+    "brand": "Philips",
+    "category": "Beauty",
+    "subcategory": "Appliances",
+    "price": 1699,
+    "discount": 25,
+    "sizes": [],
+    "rating": 4.5,
+    "images": ["https://assets.myntassets.com/beauty-hairdryer1.jpg"]
+  },
+  {
+    "id": "B511",
+    "title": "Neutrogena Sunscreen SPF 50",
+    "brand": "Neutrogena",
+    "category": "Beauty",
+    "subcategory": "Skincare",
+    "price": 599,
+    "discount": 20,
+    "sizes": ["50ml"],
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/beauty-sunscreen1.jpg"]
+  },
+  {
+    "id": "B512",
+    "title": "Dove Intense Repair Conditioner",
+    "brand": "Dove",
+    "category": "Beauty",
+    "subcategory": "Haircare",
+    "price": 299,
+    "discount": 15,
+    "sizes": ["175ml"],
+    "rating": 4.3,
+    "images": ["https://assets.myntassets.com/beauty-conditioner1.jpg"]
+  },
+  {
+    "id": "B513",
+    "title": "Nykaa Nail Enamel",
+    "brand": "Nykaa",
+    "category": "Beauty",
+    "subcategory": "Makeup",
+    "price": 179,
+    "discount": 10,
+    "sizes": ["9ml"],
+    "rating": 4.2,
+    "images": ["https://assets.myntassets.com/beauty-nailpaint1.jpg"]
+  },
+  {
+    "id": "B514",
+    "title": "The Man Company Face Scrub",
+    "brand": "The Man Company",
+    "category": "Beauty",
+    "subcategory": "Grooming",
+    "price": 349,
+    "discount": 15,
+    "sizes": ["100g"],
+    "rating": 4.4,
+    "images": ["https://assets.myntassets.com/beauty-facescrub1.jpg"]
+  },
+  {
+    "id": "B515",
+    "title": "Philips Beard Trimmer",
+    "brand": "Philips",
+    "category": "Beauty",
+    "subcategory": "Appliances",
+    "price": 1899,
+    "discount": 30,
+    "sizes": [],
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/beauty-trimmer1.jpg"]
+  },
+        [
+  /* =================== ACCESSORIES (12) =================== */
   {
     "id": "A601",
     "title": "Fossil Men Chronograph Watch",
@@ -311,10 +915,10 @@
     "category": "Accessories",
     "subcategory": "Watches",
     "price": 8999,
-    "discount": 25,
+    "discount": 20,
     "sizes": [],
-    "rating": 4.7,
-    "images": ["https://assets.myntassets.com/accessories-watch1.jpg"]
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/accessory-watch1.jpg"]
   },
   {
     "id": "A602",
@@ -326,7 +930,7 @@
     "discount": 30,
     "sizes": [],
     "rating": 4.5,
-    "images": ["https://assets.myntassets.com/accessories-bag1.jpg"]
+    "images": ["https://assets.myntassets.com/accessory-handbag1.jpg"]
   },
   {
     "id": "A603",
@@ -335,10 +939,10 @@
     "category": "Accessories",
     "subcategory": "Sunglasses",
     "price": 6999,
-    "discount": 20,
+    "discount": 25,
     "sizes": [],
-    "rating": 4.8,
-    "images": ["https://assets.myntassets.com/accessories-sunglasses1.jpg"]
+    "rating": 4.7,
+    "images": ["https://assets.myntassets.com/accessory-sunglass1.jpg"]
   },
   {
     "id": "A604",
@@ -346,11 +950,11 @@
     "brand": "Louis Philippe",
     "category": "Accessories",
     "subcategory": "Belts",
-    "price": 1499,
-    "discount": 15,
+    "price": 1999,
+    "discount": 20,
     "sizes": ["M", "L", "XL"],
-    "rating": 4.3,
-    "images": ["https://assets.myntassets.com/accessories-belt1.jpg"]
+    "rating": 4.4,
+    "images": ["https://assets.myntassets.com/accessory-belt1.jpg"]
   },
   {
     "id": "A605",
@@ -358,13 +962,98 @@
     "brand": "Wildcraft",
     "category": "Accessories",
     "subcategory": "Bags",
-    "price": 2299,
+    "price": 2499,
+    "discount": 35,
+    "sizes": [],
+    "rating": 4.5,
+    "images": ["https://assets.myntassets.com/accessory-backpack1.jpg"]
+  },
+  {
+    "id": "A606",
+    "title": "Titan Women Analog Watch",
+    "brand": "Titan",
+    "category": "Accessories",
+    "subcategory": "Watches",
+    "price": 4999,
+    "discount": 25,
+    "sizes": [],
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/accessory-watch2.jpg"]
+  },
+  {
+    "id": "A607",
+    "title": "American Tourister Travel Duffle",
+    "brand": "American Tourister",
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "price": 3999,
+    "discount": 30,
+    "sizes": [],
+    "rating": 4.5,
+    "images": ["https://assets.myntassets.com/accessory-duffle1.jpg"]
+  },
+  {
+    "id": "A608",
+    "title": "Police Men Sunglasses",
+    "brand": "Police",
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "price": 5999,
     "discount": 20,
     "sizes": [],
-    "rating": 4.4,
-    "images": ["https://assets.myntassets.com/accessories-backpack1.jpg"]
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/accessory-sunglass2.jpg"]
   },
-
+  {
+    "id": "A609",
+    "title": "Allen Solly Leather Wallet",
+    "brand": "Allen Solly",
+    "category": "Accessories",
+    "subcategory": "Wallets",
+    "price": 1499,
+    "discount": 25,
+    "sizes": [],
+    "rating": 4.4,
+    "images": ["https://assets.myntassets.com/accessory-wallet1.jpg"]
+  },
+  {
+    "id": "A610",
+    "title": "Da Milano Women Sling Bag",
+    "brand": "Da Milano",
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "price": 5499,
+    "discount": 30,
+    "sizes": [],
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/accessory-sling1.jpg"]
+  },
+  {
+    "id": "A611",
+    "title": "Peter England Formal Tie",
+    "brand": "Peter England",
+    "category": "Accessories",
+    "subcategory": "Ties",
+    "price": 999,
+    "discount": 15,
+    "sizes": ["One Size"],
+    "rating": 4.2,
+    "images": ["https://assets.myntassets.com/accessory-tie1.jpg"]
+  },
+  {
+    "id": "A612",
+    "title": "Woodland Unisex Cap",
+    "brand": "Woodland",
+    "category": "Accessories",
+    "subcategory": "Caps",
+    "price": 799,
+    "discount": 20,
+    "sizes": ["M", "L"],
+    "rating": 4.3,
+    "images": ["https://assets.myntassets.com/accessory-cap1.jpg"]
+  },
+          [
+  /* =================== ELECTRONICS (13) =================== */
   {
     "id": "E701",
     "title": "Sony Wireless Noise Cancelling Headphones",
@@ -372,10 +1061,10 @@
     "category": "Electronics",
     "subcategory": "Headphones",
     "price": 14999,
-    "discount": 10,
+    "discount": 20,
     "sizes": [],
-    "rating": 4.8,
-    "images": ["https://assets.myntassets.com/electronics-headphone1.jpg"]
+    "rating": 4.7,
+    "images": ["https://assets.myntassets.com/electronics-headphones1.jpg"]
   },
   {
     "id": "E702",
@@ -383,10 +1072,10 @@
     "brand": "Apple",
     "category": "Electronics",
     "subcategory": "Smartwatches",
-    "price": 39999,
-    "discount": 5,
-    "sizes": [],
-    "rating": 4.9,
+    "price": 41999,
+    "discount": 10,
+    "sizes": ["42mm"],
+    "rating": 4.8,
     "images": ["https://assets.myntassets.com/electronics-watch1.jpg"]
   },
   {
@@ -395,8 +1084,8 @@
     "brand": "JBL",
     "category": "Electronics",
     "subcategory": "Speakers",
-    "price": 2999,
-    "discount": 15,
+    "price": 6999,
+    "discount": 25,
     "sizes": [],
     "rating": 4.6,
     "images": ["https://assets.myntassets.com/electronics-speaker1.jpg"]
@@ -407,11 +1096,11 @@
     "brand": "Samsung",
     "category": "Electronics",
     "subcategory": "Mobiles",
-    "price": 25999,
-    "discount": 12,
-    "sizes": [],
-    "rating": 4.7,
-    "images": ["https://assets.myntassets.com/electronics-phone1.jpg"]
+    "price": 35999,
+    "discount": 15,
+    "sizes": ["128GB"],
+    "rating": 4.5,
+    "images": ["https://assets.myntassets.com/electronics-mobile1.jpg"]
   },
   {
     "id": "E705",
@@ -419,10 +1108,107 @@
     "brand": "Dell",
     "category": "Electronics",
     "subcategory": "Laptops",
-    "price": 55999,
-    "discount": 10,
+    "price": 56999,
+    "discount": 20,
+    "sizes": ["15 inch"],
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/electronics-laptop1.jpg"]
+  },
+  {
+    "id": "E706",
+    "title": "HP Pavilion Gaming Laptop",
+    "brand": "HP",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "price": 79999,
+    "discount": 25,
+    "sizes": ["15.6 inch"],
+    "rating": 4.7,
+    "images": ["https://assets.myntassets.com/electronics-laptop2.jpg"]
+  },
+  {
+    "id": "E707",
+    "title": "Noise ColorFit Pro 3 Smartwatch",
+    "brand": "Noise",
+    "category": "Electronics",
+    "subcategory": "Smartwatches",
+    "price": 4999,
+    "discount": 30,
+    "sizes": ["40mm"],
+    "rating": 4.4,
+    "images": ["https://assets.myntassets.com/electronics-watch2.jpg"]
+  },
+  {
+    "id": "E708",
+    "title": "OnePlus Buds Z2",
+    "brand": "OnePlus",
+    "category": "Electronics",
+    "subcategory": "Earbuds",
+    "price": 4999,
+    "discount": 20,
     "sizes": [],
     "rating": 4.5,
-    "images": ["https://assets.myntassets.com/electronics-laptop1.jpg"]
+    "images": ["https://assets.myntassets.com/electronics-earbuds1.jpg"]
+  },
+  {
+    "id": "E709",
+    "title": "Canon EOS 1500D DSLR Camera",
+    "brand": "Canon",
+    "category": "Electronics",
+    "subcategory": "Cameras",
+    "price": 34999,
+    "discount": 15,
+    "sizes": ["24.1MP"],
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/electronics-camera1.jpg"]
+  },
+  {
+    "id": "E710",
+    "title": "Mi Power Bank 20000mAh",
+    "brand": "Mi",
+    "category": "Electronics",
+    "subcategory": "Powerbanks",
+    "price": 2499,
+    "discount": 20,
+    "sizes": [],
+    "rating": 4.5,
+    "images": ["https://assets.myntassets.com/electronics-powerbank1.jpg"]
+  },
+  {
+    "id": "E711",
+    "title": "Logitech Wireless Keyboard & Mouse Combo",
+    "brand": "Logitech",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "price": 2999,
+    "discount": 25,
+    "sizes": [],
+    "rating": 4.4,
+    "images": ["https://assets.myntassets.com/electronics-keyboard1.jpg"]
+  },
+  {
+    "id": "E712",
+    "title": "Sony PlayStation 5 Console",
+    "brand": "Sony",
+    "category": "Electronics",
+    "subcategory": "Gaming",
+    "price": 49999,
+    "discount": 5,
+    "sizes": [],
+    "rating": 4.9,
+    "images": ["https://assets.myntassets.com/electronics-ps5.jpg"]
+  },
+  {
+    "id": "E713",
+    "title": "Amazon Echo Dot 4th Gen",
+    "brand": "Amazon",
+    "category": "Electronics",
+    "subcategory": "Smart Devices",
+    "price": 4499,
+    "discount": 30,
+    "sizes": [],
+    "rating": 4.6,
+    "images": ["https://assets.myntassets.com/electronics-echo1.jpg"]
   }
 ]
+
