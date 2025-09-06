@@ -359,8 +359,6 @@
     "rating": 4.3,
     "images": ["https://assets.myntassets.com/women-sneakers1.jpg"]
   },
-  [
-  /* =================== KIDS (15) =================== */
   {
     "id": "K301",
     "title": "HRX Kids Boys Printed T-shirt",
@@ -541,8 +539,6 @@
     "rating": 4.7,
     "images": ["https://assets.myntassets.com/kids-backpack1.jpg"]
   },
-    [
-  /* =================== HOME & LIVING (15) =================== */
   {
     "id": "H401",
     "title": "Cortina Cotton Double Bedsheet",
@@ -723,8 +719,6 @@
     "rating": 4.4,
     "images": ["https://assets.myntassets.com/home-lamp1.jpg"]
   },
-      [
-  /* =================== BEAUTY (15) =================== */
   {
     "id": "B501",
     "title": "Maybelline Fit Me Foundation",
@@ -905,8 +899,6 @@
     "rating": 4.6,
     "images": ["https://assets.myntassets.com/beauty-trimmer1.jpg"]
   },
-        [
-  /* =================== ACCESSORIES (12) =================== */
   {
     "id": "A601",
     "title": "Fossil Men Chronograph Watch",
@@ -1051,8 +1043,6 @@
     "rating": 4.3,
     "images": ["https://assets.myntassets.com/accessory-cap1.jpg"]
   },
-          [
-  /* =================== ELECTRONICS (13) =================== */
   {
     "id": "E701",
     "title": "Sony Wireless Noise Cancelling Headphones",
